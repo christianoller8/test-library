@@ -17,7 +17,6 @@ Install the dependencies:
 
 `node index.js`
 
-
+![alt text](https://github.com/christianoller8/test-library/blob/94da4286b07d168bf4dc6fb57abc708aa88f66c7/assets/img%20programa%20calculadora.png)
 
 And now you can try it, I hope you enjoy!! ✌️
-
