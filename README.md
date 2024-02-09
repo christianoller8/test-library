@@ -1,6 +1,6 @@
-﻿# ✨Calculator prove✨
+﻿# ✨Calculator by console✨
 
-##Project description 
+PROJECT DESCRIPTION
 This project aims to test a library previously created by me for educational purposes.
 
 ## Used technologies
