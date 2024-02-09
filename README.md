@@ -1,6 +1,7 @@
 ﻿# ✨Calculator by console✨
 
 PROJECT DESCRIPTION
+
 This project aims to test a library previously created by me for educational purposes.
 
 ## Used technologies
