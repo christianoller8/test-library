@@ -9,7 +9,8 @@ This project aims to test a library previously created by me for educational pur
 * NPM
 * Typescript
 
-##Installation
+INSTALATION
+
 Install the dependencies:
 
 `npm install`
